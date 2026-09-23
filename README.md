@@ -47,9 +47,15 @@ I enjoy discovering new ideas, experimenting with technology, and continuously i
 
 ## 📊 GitHub
 
+## 🐍 GitHub Contributions
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akhila73p&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="450"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akhila73p/Akhila73p/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akhila73p/Akhila73p/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Akhila73p/Akhila73p/output/github-contribution-grid-snake.svg" width="90%">
+</picture>
 
 </div>
 

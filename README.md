@@ -114,6 +114,12 @@ Making it better
 <img src="https://img.shields.io/badge/LinkedIn-Akhila-FF6B9A?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </div>
 
 <br>

@@ -116,7 +116,7 @@ Making it better
 
 &nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<a href="https://leetcode.com/u/ParlaAkhila/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 

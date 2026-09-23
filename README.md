@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=PARLA%20AKHILA&fontSize=52&fontColor=ffffff&animation=twinkling&color=0:667eea,100:764ba2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&section=header&text=PARLA%20AKHILA&fontSize=52&fontColor=ffffff&animation=twinkling&stroke=7B61FF&strokeWidth=2&color=0:0F172A,50:312E81,100:581C87" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=667EEA&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;AI+%26+Technology+Enthusiast;Creative+Problem+Solver;Always+Learning+%26+Exploring+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Exploring+AI+%26+Technology;Creative+Problem+Solver;Learn+%E2%80%A2+Build+%E2%80%A2+Evolve+%E2%9C%A8"/>
 
 </div>
 

@@ -24,8 +24,6 @@ I'm interested in the intersection of **technology, intelligence, creativity, an
 
 ## 💡 Areas I'm Interested In
 
-<div align="center">
-
 🤖 **Artificial Intelligence**  
 🧠 **Machine Learning**  
 💻 **Software Development**  
@@ -59,20 +57,6 @@ I'm interested in the intersection of **technology, intelligence, creativity, an
 I believe that technology is best learned by **exploring, experimenting, making mistakes, and trying again**.
 
 Every new concept gives me an opportunity to understand something deeper and become better at what I do.
-
----
-
-## ✨ What I Value
-
-**Curiosity** — Always asking questions.
-
-**Creativity** — Looking at problems from different perspectives.
-
-**Consistency** — Making progress one step at a time.
-
-**Learning** — Staying open to new ideas and technologies.
-
-**Growth** — Improving through every experience.
 
 ---
 

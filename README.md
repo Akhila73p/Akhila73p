@@ -12,7 +12,11 @@
 
 <div align="center">
 
-🌸 **Curious Mind** &nbsp; ✦ &nbsp; 💡 **Creative Thinker** &nbsp; ✦ &nbsp; 🚀 **Continuous Learner**
+🌸 <b>Curious Mind</b>
+&nbsp; ✦ &nbsp;
+💡 <b>Creative Thinker</b>
+&nbsp; ✦ &nbsp;
+🚀 <b>Continuous Learner</b>
 
 </div>
 
@@ -32,13 +36,25 @@ I believe that every new thing I learn is another step toward becoming a better 
 
 ## 🎯 My Interests
 
-🌸 Artificial Intelligence  
-🧠 Machine Learning  
-💻 Software Development  
-🌐 Web Technologies  
-☁️ Cloud & Emerging Technologies  
-💡 Innovation  
-🔍 Problem Solving
+<div align="center">
+
+🌸 **Artificial Intelligence**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+🧠 **Machine Learning**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+💻 **Software Development**
+
+<br>
+
+🌐 **Web Technologies**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+☁️ **Cloud & Emerging Technologies**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+💡 **Innovation**
+
+<br>
+
+🔍 **Problem Solving**
 
 </div>
 
@@ -56,35 +72,60 @@ I believe that every new thing I learn is another step toward becoming a better 
 
 ## 💻 What I Enjoy
 
-```text
-Exploring new technologies
-        ↓
-Understanding how they work
-        ↓
-Experimenting with ideas
-        ↓
-Creating something useful
-        ↓
-Learning from mistakes
-        ↓
-Making it better
-
-🌈 A Little Motivation
 <div align="center">
 
-"Don't just learn technology — explore it, create with it, and grow with it." ✨
+Exploring new technologies  
+↓  
+Understanding how they work  
+↓  
+Experimenting with ideas  
+↓  
+Creating something useful  
+↓  
+Learning from mistakes  
+↓  
+Making it better
 
 </div>
 
-🤝 Let's Connect
+---
 
-<div align="center"> <a href="https://github.com/Akhila73p"> <img src="https://img.shields.io/badge/GitHub-Akhila73p-6C5CE7?style=for-the-badge&logo=github&logoColor=white"/> </a>
+## 🌈 A Little Motivation
 
-  
+<div align="center">
 
-<a href="https://www.linkedin.com/in/akhila-parla-000393372/"> <img src="https://img.shields.io/badge/LinkedIn-Akhila-FF6B9A?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div> <br> <div align="center">
+### ✨ "Don't just learn technology — explore it, create with it, and grow with it." ✨
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Akhila73p">
+<img src="https://img.shields.io/badge/GitHub-Akhila73p-6C5CE7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/akhila-parla-000393372/">
+<img src="https://img.shields.io/badge/LinkedIn-Akhila-FF6B9A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
 
 🌸 ✦ 💜 ✦ 🌈 ✦ 💫 ✦ 🚀 ✦ 🌸
 
-Learn • Create • Grow • Repeat
-<br> <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=twinkling&color=0:ff9a9e,25:fad0c4,50:a1c4fd,75:c2e9fb,100:d4fc79" width="100%"/> </div> ```
+### **Learn • Create • Grow • Repeat**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=twinkling&color=0:ff9a9e,25:fad0c4,50:a1c4fd,75:c2e9fb,100:d4fc79" width="100%"/>
+
+</div>

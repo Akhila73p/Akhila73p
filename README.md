@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=P%20AKHILA&fontSize=52&fontColor=ffffff&animation=twinkling&color=0:ff9a9e,25:fad0c4,50:a1c4fd,75:c2e9fb,100:d4fc79" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=P.%20AKHILA&fontSize=52&fontColor=ffffff&animation=twinkling&color=0:ff9a9e,25:fad0c4,50:a1c4fd,75:c2e9fb,100:d4fc79" width="100%"/>
 
 <br>
 
@@ -90,11 +90,11 @@ Making it better
 
 ---
 
-## 🌈 A Little Motivation
+## 🐍 GitHub Contribution Journey
 
 <div align="center">
 
-### ✨ "Don't just learn technology — explore it, create with it, and grow with it." ✨
+<img src="https://raw.githubusercontent.com/Akhila73p/Akhila73p/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%"/>
 
 </div>
 
@@ -120,9 +120,7 @@ Making it better
 
 <div align="center">
 
-🌸 ✦ 💜 ✦ 🌈 ✦ 💫 ✦ 🚀 ✦ 🌸
-
-### **Learn • Create • Grow • Repeat**
+### ✨ Learn • Create • Grow • Repeat ✨
 
 <br>
 

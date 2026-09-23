@@ -1,36 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=190&section=header&text=PARLA%20AKHILA&fontSize=50&fontColor=FFFFFF&fontAlignY=50&animation=twinkling&color=0:020617,50:111827,100:312E81" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=P%20AKHILA&fontSize=52&fontColor=ffffff&animation=twinkling&color=0:ff9a9e,25:fad0c4,50:a1c4fd,75:c2e9fb,100:d4fc79" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;AI+%26+Technology+Enthusiast;Software+Development+Explorer;Creative+Problem+Solver;Always+Learning+Something+New+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=800&color=9C27B0&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;AI+%26+Technology+Enthusiast;Creative+Problem+Solver;Software+Development+Explorer;Learning+%E2%80%A2+Creating+%E2%80%A2+Growing+%E2%9C%A8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+🌸 **Curious Mind** &nbsp; ✦ &nbsp; 💡 **Creative Thinker** &nbsp; ✦ &nbsp; 🚀 **Continuous Learner**
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🌷 About Me
 
-I'm **Akhila**, a Computer Science Engineering student with a curiosity for technology and a passion for learning.
+Hi! I'm **Akhila**, a Computer Science Engineering student who enjoys exploring technology, solving problems, and turning ideas into meaningful digital solutions.
 
-I enjoy understanding how things work, exploring new technologies, solving problems, and turning ideas into practical solutions.
+I'm curious about how technology works and enjoy learning through experimentation, creativity, and hands-on practice.
 
-I'm interested in the intersection of **technology, intelligence, creativity, and innovation**.
+I believe that every new thing I learn is another step toward becoming a better problem solver and developer.
 
-> **Learn with curiosity. Build with purpose. Grow with consistency.**
+> 💜 **Learn with curiosity. Build with purpose. Grow with consistency.**
 
 ---
 
-## 💡 Areas I'm Interested In
+## 🎯 My Interests
 
-🤖 **Artificial Intelligence**  
-🧠 **Machine Learning**  
-💻 **Software Development**  
-🌐 **Web Technologies**  
-☁️ **Cloud & Emerging Technologies**  
-🔍 **Problem Solving**  
-🚀 **Innovation**
+🌸 Artificial Intelligence  
+🧠 Machine Learning  
+💻 Software Development  
+🌐 Web Technologies  
+☁️ Cloud & Emerging Technologies  
+💡 Innovation  
+🔍 Problem Solving
 
 </div>
 
@@ -46,64 +54,37 @@ I'm interested in the intersection of **technology, intelligence, creativity, an
 
 ---
 
-## 🌱 My Way of Learning
+## 💻 What I Enjoy
 
+```text
+Exploring new technologies
+        ↓
+Understanding how they work
+        ↓
+Experimenting with ideas
+        ↓
+Creating something useful
+        ↓
+Learning from mistakes
+        ↓
+Making it better
+
+## 🌈 A Little Motivation
 <div align="center">
 
-### Curiosity → Learning → Experimentation → Building → Improvement
+"Don't just learn technology — explore it, create with it, and grow with it." ✨
 
 </div>
 
-I believe that technology is best learned by **exploring, experimenting, making mistakes, and trying again**.
+## 🤝 Let's Connect
 
-Every new concept gives me an opportunity to understand something deeper and become better at what I do.
+<div align="center"> <a href="https://github.com/Akhila73p"> <img src="https://img.shields.io/badge/GitHub-Akhila73p-6C5CE7?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
----
+  
 
-## 🐍 GitHub Contribution Journey
+<a href="https://www.linkedin.com/in/akhila-parla-000393372/"> <img src="https://img.shields.io/badge/LinkedIn-Akhila-FF6B9A?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div> <br> <div align="center">
 
-<div align="center">
+🌸 ✦ 💜 ✦ 🌈 ✦ 💫 ✦ 🚀 ✦ 🌸
 
-<img src="https://raw.githubusercontent.com/Akhila73p/Akhila73p/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%"/>
-
-</div>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akhila73p&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="450"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Akhila73p">
-<img src="https://img.shields.io/badge/GitHub-Akhila73p-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/akhila-parla-000393372/">
-<img src="https://img.shields.io/badge/LinkedIn-Akhila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ✦ Keep Learning. Keep Building. Keep Growing. ✦
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&section=footer&animation=twinkling&color=0:312E81,50:111827,100:020617" width="100%"/>
-
-</div>
+Learn • Create • Grow • Repeat
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=twinkling&color=0:ff9a9e,25:fad0c4,50:a1c4fd,75:c2e9fb,100:d4fc79" width="100%"/> </div> ```

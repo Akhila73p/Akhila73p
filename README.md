@@ -69,14 +69,14 @@ Learning from mistakes
         ↓
 Making it better
 
-## 🌈 A Little Motivation
+🌈 A Little Motivation
 <div align="center">
 
 "Don't just learn technology — explore it, create with it, and grow with it." ✨
 
 </div>
 
-## 🤝 Let's Connect
+🤝 Let's Connect
 
 <div align="center"> <a href="https://github.com/Akhila73p"> <img src="https://img.shields.io/badge/GitHub-Akhila73p-6C5CE7?style=for-the-badge&logo=github&logoColor=white"/> </a>
 

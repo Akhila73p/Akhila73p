@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&section=header&text=PARLA%20AKHILA&fontSize=52&fontColor=ffffff&animation=twinkling&stroke=7B61FF&strokeWidth=2&color=0:0F172A,50:312E81,100:581C87" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&section=header&text=PARLA%20AKHILA&fontSize=52&fontColor=ffffff&animation=twinkling&stroke=7B61FF&strokeWidth=2&color=0:020617,45:111827,75:312E81,100:4C1D95" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Exploring+AI+%26+Technology;Creative+Problem+Solver;Learn+%E2%80%A2+Build+%E2%80%A2+Evolve+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Exploring+Artificial+Intelligence;Exploring+New+Technologies;Creative+Problem+Solver;Learn+%E2%80%A2+Build+%E2%80%A2+Evolve+%E2%9C%A8"/>
 
 </div>
 

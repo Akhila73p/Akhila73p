@@ -45,8 +45,6 @@ I enjoy discovering new ideas, experimenting with technology, and continuously i
 
 ---
 
-## 📊 GitHub
-
 ## 🐍 GitHub Contributions
 
 <div align="center">

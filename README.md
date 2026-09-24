@@ -90,13 +90,9 @@ Making it better
 
 ---
 
-## 🐍 GitHub Contribution Journey
+🐍 My Contribution Journey
+<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%"/> </div>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Akhila73p/Akhila73p/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%"/>
-
-</div>
 
 ---
 
